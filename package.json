@@ -1,0 +1,17 @@
+{
+  "name": "leetcode-js-environment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "main": "node --harmony --require ./init.js main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@datastructures-js/priority-queue": "5.4.0",
+    "@datastructures-js/queue": "4.2.3",
+    "lodash": "4.17.21"
+  }
+}
