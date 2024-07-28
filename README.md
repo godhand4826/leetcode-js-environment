@@ -9,6 +9,7 @@ This repository contains the setup for a JavaScript environment for solving Leet
 > Reference: [What are the environments for the programming languages?](https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environments-for-the-programming-languages)
 
 ## Prerequisites
+- git
 - node.js@20.10.0
 - npm (comes with Node.js)
 
